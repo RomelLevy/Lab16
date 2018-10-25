@@ -1,0 +1,7 @@
+United States	326,766,748
+China	        1,415,045,928
+India	        1,354,051,854
+Brazil	        210,867,954
+Egypt 	        99,375,741
+South Africa	57,398,421
+          
